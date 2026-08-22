@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F1512?style=for-the-badge&logo=linkedin&logoColor=FFAB91&labelColor=1F1512)](https://www.linkedin.com/in/santanu-mondal-823401353)
 [![Email](https://img.shields.io/badge/Email-1F1512?style=for-the-badge&logo=gmail&logoColor=FFAB91&labelColor=1F1512)](https://mail.google.com/mail/?view=cm&fs=1&to=santanu7299@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1F1512?style=for-the-badge&logo=github&logoColor=FFAB91&labelColor=1F1512)](https://github.com/sananu25)
+[![GitHub](https://img.shields.io/badge/GitHub-1F1512?style=for-the-badge&logo=github&logoColor=FFAB91&labelColor=1F1512)](https://github.com/santanu737)
 
 </div>
 
@@ -166,20 +166,20 @@ An interactive data analysis project exploring and visualizing COVID-19 datasets
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sananu25&show_icons=true&hide_border=true&title_color=FFAB91&icon_color=FFD8B8&text_color=F5E6DC&bg_color=1F1512" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sananu25&hide_border=true&background=1F1512&stroke=FFAB91&ring=FFD8B8&fire=FFAB91&currStreakLabel=FFAB91" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=santanu737&show_icons=true&hide_border=true&title_color=FFAB91&icon_color=FFD8B8&text_color=F5E6DC&bg_color=1F1512" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santanu737&hide_border=true&background=1F1512&stroke=FFAB91&ring=FFD8B8&fire=FFAB91&currStreakLabel=FFAB91" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sananu25&bg_color=1F1512&color=FFAB91&line=FFD8B8&point=F5E6DC&area=true&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santanu737&bg_color=1F1512&color=FFAB91&line=FFD8B8&point=F5E6DC&area=true&hide_border=true" width="97%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sananu25&theme=algolia&no-frame=true&column=7" width="97%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=santanu737&theme=algolia&no-frame=true&column=7" width="97%"/>
 
 </div>
 
