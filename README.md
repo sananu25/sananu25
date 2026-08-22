@@ -26,6 +26,30 @@
 
 # `> whoami`
 
+## > tech_stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,fastapi,mongodb,mysql,git,github,vscode" />
+  <br /> <br />
+  <img src="https://img.shields.io/badge/Machine%20Learning-CAFF3C?style=for-the-badge&logo=scikitlearn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Science-CAFF3C?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-CAFF3C?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/DSA-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=black" />
+</div>
+
+## > currently_learning
+```python
+currently_learning = [
+    "Data Structures & Algorithms",
+    "Machine Learning",
+    "Data Analysis & EDA",
+    "Python for AI/ML",
+    "Database Management Systems",
+    "Building Real-World AI Projects"
+]
+
+for skill in currently_learning:
+    print(f"Learning: {skill} 🚀")
+
 ```bash
 $ cat .profile
 
