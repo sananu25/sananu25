@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=180&section=header&text=%3E_%20Santanu%20Mondal&fontSize=42&fontColor=CAFF3C&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=22&descAlignY=60&descColor=8AFF57" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=%3E_%20Santanu%20Mondal&fontSize=42&fontColor=06B6D4&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=20&descAlignY=62&descColor=38BDF8" />
 <br />
 
 <!-- Typing SVG -->
