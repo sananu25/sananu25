@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20Santanu%20Mondal&fontSize=38&desc=Aspiring%20Machine%20Learning%20Engineer&descColor=8AFF57&animation=fadeIn" />
 
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=180&section=header&text=%3E_%20Santanu%20Mondal&fontSize=42&fontColor=CAFF3C&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=22&descAlignY=60&descColor=8AFF57" />
 <br />
 
 <!-- Typing SVG -->
