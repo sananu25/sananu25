@@ -1,27 +1,37 @@
+\<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&fontColor=5EEAD4&text=Santanu%20Mondal&fontSize=38&desc=Aspiring%20AI%2FML%20Engineer&descColor=93C5FD&animation=fadeIn&height=180" />
+</div>
+
 <div align="center">
 
-# Hi, I'm Santanu Mondal 👋
-### Aspiring Machine Learning Engineer
-
-<em>Turning data into decisions, one model at a time.</em>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5EEAD4&center=true&vCenter=true&width=820&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Agentic+AI+%7C+Data+Science;Building+real-world+AI+%2B+automation+projects;Open+to+Internships+%2B+Collaborations" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanu-mondal-823401353)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santanu7299@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sananu25)
+![Adamas University](https://img.shields.io/badge/Adamas%20University-0F172A?style=flat-square&labelColor=0F172A&color=1E293B)
+![Kolkata](https://img.shields.io/badge/Kolkata%2C%20West%20Bengal%2C%20India-0F172A?style=flat-square&labelColor=0F172A&color=1E293B)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=0F172A)](https://www.linkedin.com/in/santanu-mondal-823401353)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=5EEAD4&labelColor=0F172A)](mailto:santanu7299@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=5EEAD4&labelColor=0F172A)](https://github.com/sananu25)
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 B.Tech CSE (AI/ML) Student
-- 🔭 Currently building real-world **AI & Data Science** projects
-- 🌱 Learning **Data Structures & Algorithms**, **Machine Learning**, and **Database Management Systems**
-- 💡 Interested in **Machine Learning**, **Data Science**, and **Artificial Intelligence**
-- ⚡ Fun fact: I learn best by building
+I'm a B.Tech CSE (AI & ML) student at Adamas University, passionate about how AI can solve real-world problems — from intelligent automation to data-driven systems. I've spent the past year building hands-on projects, exploring cloud AI security, and picking up certifications across Generative AI, ML, and cybersecurity.
+
+```yaml
+role:     B.Tech CSE (AI & ML) Student
+club:     ADAMAS: CY-Coders Club (2024 – Present)
+domain:   Artificial Intelligence · Machine Learning · Agentic AI
+stack:    Python · C · C++ · Java · JS · HTML/CSS
+open_to:  Internships · Collaborations · Learning Opportunities
+```
 
 <br/>
 
@@ -29,52 +39,176 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=5EEAD4&labelColor=0F172A)
+![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=5EEAD4&labelColor=0F172A)
+![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=flat-square&logo=cplusplus&logoColor=5EEAD4&labelColor=0F172A)
+![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=5EEAD4&labelColor=0F172A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=5EEAD4&labelColor=0F172A)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=5EEAD4&labelColor=0F172A)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=5EEAD4&labelColor=0F172A)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=5EEAD4&labelColor=0F172A)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=5EEAD4&labelColor=0F172A)
+![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=flat-square&logo=netlify&logoColor=5EEAD4&labelColor=0F172A)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=5EEAD4&labelColor=0F172A)
+![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=5EEAD4&labelColor=0F172A)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=5EEAD4&labelColor=0F172A)
 
 </div>
+
+<br/>
+
+## 🎯 Expertise
+
+| Domain | Focus |
+| :-- | :-- |
+| 🤖 Artificial Intelligence | Generative AI, Agentic AI, LLMs |
+| 📊 Data Science | Exploratory Data Analysis, data-driven systems |
+| 🧩 Machine Learning | Core ML concepts, applied projects |
+| 🔐 Cybersecurity | AI-powered cloud security fundamentals |
+| ⚙️ Automation | AI workflow automation (Relay, LLM pipelines) |
 
 <br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🎂 **Wishify** | A birthday wish platform where users create and share personalized wishes |
-| 📧 **AI Mail Assist** | An AI-powered agent that generates context-aware email replies with review & approval workflows |
-| 🦠 **COVID-19 Dashboard** | An interactive data analysis project for exploring and visualizing COVID-19 datasets |
-| ⚡ **Smart Energy Monitor** | An IoT + Data Science project for monitoring and optimizing electricity consumption |
+<details open>
+<summary><b>AI Agent for Email Reply Automation</b></summary>
+<br/>
+
+An AI-powered email automation system built on Relay that classifies incoming emails, generates context-aware reply drafts using LLMs, and summarizes messages for quick review — with a human-in-the-loop approval step before anything sends.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Relay · LLMs · NLP |
+| **My Role** | Designed the full workflow, built classification logic, integrated AI summarization/reply blocks, configured Gmail triggers |
+| **Impact** | Cut manual email response effort, improved response time |
+
+</details>
+
+<details>
+<summary><b>Birthday Wish Maker — Create & Share Wishes Online</b></summary>
+<br/>
+
+A web app for creating and sharing customized birthday wishes and posters, deployed live on Netlify.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | HTML5 · CSS3 · JavaScript |
+| **Live** | [birthday-wishmaker.netlify.app](https://birthday-wishmaker.netlify.app) |
+| **Highlights** | Instant shareable links, responsive design |
+
+</details>
+
+<details>
+<summary><b>Smart Energy Monitoring System</b></summary>
+<br/>
+
+A project focused on monitoring and optimizing electricity consumption using IoT and data science techniques.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | IoT · Data Analysis · Machine Learning |
+
+</details>
+
+<details>
+<summary><b>COVID-19 Interactive Dashboard</b></summary>
+<br/>
+
+An interactive data analysis project exploring and visualizing COVID-19 datasets.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python · Data Visualization |
+
+</details>
 
 <br/>
 
-## 📚 Currently Learning
+## 💼 Experience
 
-`Data Structures & Algorithms` · `Machine Learning` · `Data Analysis & AI` · `Python for AI/ML` · `Database Management Systems` · `Real-world AI Projects`
+**ADAMAS: CY-Coders Club** — *Adamas University*
+`Aug 2024 – Present`
+- Full-time club membership focused on hands-on coding and project building
+- Working with Python and C in a collaborative, project-driven environment
+
+`Python` `C` `Project Building`
 
 <br/>
 
-## 📊 GitHub Stats
+## 📜 Certifications
+
+- AWS Academy Graduate — Generative AI Foundations *(Aug 2026)*
+- NASSCOM Certified — Gen AI Tools *(Aug 2026)*
+- CSRBOX — IBM Certified AI NextGen Certification Program 2026 *(Mar 2026)*
+- IBM SkillsBuild — AI NextGen Certification Program 2026 *(Mar 2026)*
+- IBM — Granite Models for Software Development *(Mar 2026)*
+- IBM SkillsBuild — What is Cybersecurity? *(Mar 2026)*
+- Microsoft — Introduction to Machine Learning Concepts *(Mar 2026)*
+- NITI Aayog — AI for Entrepreneurship *(Mar 2026)*
+- IBM SkillsBuild — GitHub Tutorial: Beginner's Training Guide *(Sep 2025)*
+- HP LIFE — Data Science and Analytics *(Sep 2025)*
+- HP LIFE — AI for Beginners *(Sep 2025)*
+- IBM SkillsBuild — Introduction to Retrieval Augmented Generation *(Sep 2025)*
+- IBM SkillsBuild — Ethical Considerations for Generative AI *(Sep 2025)*
+
+<br/>
+
+## 🎓 Education
+
+![Adamas University](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-0F172A?style=for-the-badge&labelColor=0F172A&color=5EEAD4)
+
+**Adamas University** — Bachelor of Technology, Computer Science & Engineering (AI & ML) · `Jul 2024 – Jul 2028`
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sananu25&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sananu25&theme=default&hide_border=true" width="48%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sananu25&show_icons=true&hide_border=true&title_color=5EEAD4&icon_color=93C5FD&text_color=E2E8F0&bg_color=0F172A" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sananu25&hide_border=true&background=0F172A&stroke=5EEAD4&ring=93C5FD&fire=5EEAD4&currStreakLabel=5EEAD4" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sananu25&bg_color=0F172A&color=5EEAD4&line=93C5FD&point=E2E8F0&area=true&hide_border=true" width="97%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sananu25&theme=algolia&no-frame=true&column=7" width="97%"/>
+
+</div>
+
+<br/>
+
+## 🌱 Current Focus
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - Machine Learning & Data Analysis
+  - Python for AI/ML
+  - Database Management Systems
+
+building:
+  - AI Agent for Email Reply Automation  # LLM-powered workflow automation
+  - Smart Energy Monitoring System        # IoT + Data Science
+
+open_to:
+  - Internships in AI / Machine Learning
+  - Collaborations and learning opportunities
+```
 
 <br/>
 
 <div align="center">
 
 **Learning · Building · Improving every day** ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&fontColor=5EEAD4&height=100&section=footer" />
 
 </div>
