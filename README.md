@@ -14,7 +14,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F1512?style=for-the-badge&logo=linkedin&logoColor=FFAB91&labelColor=1F1512)](https://www.linkedin.com/in/santanu-mondal-823401353)
-[![Email](https://img.shields.io/badge/Email-1F1512?style=for-the-badge&logo=gmail&logoColor=FFAB91&labelColor=1F1512)](mailto:santanu7299@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1F1512?style=for-the-badge&logo=gmail&logoColor=FFAB91&labelColor=1F1512)](https://mail.google.com/mail/?view=cm&fs=1&to=santanu7299@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1F1512?style=for-the-badge&logo=github&logoColor=FFAB91&labelColor=1F1512)](https://github.com/sananu25)
 
 </div>
