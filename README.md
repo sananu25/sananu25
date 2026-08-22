@@ -38,6 +38,40 @@
 
 ## > currently_learning
 ```python
+
+## > featured_projects
+
+### 🌸 WishBloom
+A birthday wish platform where users can create and share personalized wishes.  
+*Tech:* React, FastAPI, MongoDB GridFS, AI
+
+### 🤖 AI Email Reply Automation
+An AI-powered system that generates context-aware email replies with review and approval workflows.  
+*Tech:* AI Automation, Relay.app, Gmail Integration
+
+### 📊 COVID-19 EDA Dashboard
+An interactive data analysis project for exploring and visualizing COVID-19 datasets.  
+*Tech:* Python, Pandas, Plotly, Dash
+
+### ⚡ Smart Energy Monitoring System
+A university campus project focused on monitoring and optimizing electricity consumption using IoT, Data Science, and Machine Learning.  
+*Focus:* AI/ML, Data Analysis, Energy Optimization
+
+## > github_stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true" />
+  <br /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</div>
+
+## > activity
+```text
+📚 Learning        ████████████████████   100%
+💻 Coding          ██████████████████░░   90%
+🤖 AI / ML         ███████████████████░   95%
+🧠 Problem Solving █████████████████░░░   85%
+🚀 Building        ███████████████████░   95%
 currently_learning = [
     "Data Structures & Algorithms",
     "Machine Learning",
