@@ -1,95 +1,80 @@
 <div align="center">
 
-<!-- Banner -->
+# Hi, I'm Santanu Mondal 👋
+### Aspiring Machine Learning Engineer
 
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=%3E_%20Santanu%20Mondal&fontSize=42&fontColor=06B6D4&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=20&descAlignY=62&descColor=38BDF8" />
-<br />
+<em>Turning data into decisions, one model at a time.</em>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=850&lines=%24+whoami+%E2%86%92+B.Tech+CSE+(AIML)+Student;%24+focus+%E2%86%92+Machine+Learning+%7C+AI+%7C+Data+Science;%24+building+%E2%86%92+Projects+with+Python+%26+AI;%24+goal+%E2%86%92+To+Become+an+ML+Engineer" />
+<br/>
 
-<br /><br />
-
-<!-- Social Links -->
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
-<br />
+<br/>
 
-# `> whoami`
+## 👨‍💻 About Me
 
-## > tech_stack
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🔭 Currently building real-world **AI & Data Science** projects
+- 🌱 Learning **Data Structures & Algorithms**, **Machine Learning**, and **Database Management Systems**
+- 💡 Interested in **Machine Learning**, **Data Science**, and **Artificial Intelligence**
+- ⚡ Fun fact: I learn best by building
+
+<br/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,fastapi,mongodb,mysql,git,github,vscode" />
-  <br /> <br />
-  <img src="https://img.shields.io/badge/Machine%20Learning-CAFF3C?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Science-CAFF3C?style=for-the-badge&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-CAFF3C?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/DSA-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-## > currently_learning
-```python
+<br/>
 
-## > featured_projects
+## 🚀 Featured Projects
 
-### 🌸 WishBloom
-A birthday wish platform where users can create and share personalized wishes.  
-*Tech:* React, FastAPI, MongoDB GridFS, AI
+| Project | Description |
+|---|---|
+| 🎂 **Wishify** | A birthday wish platform where users create and share personalized wishes |
+| 📧 **AI Mail Assist** | An AI-powered agent that generates context-aware email replies with review & approval workflows |
+| 🦠 **COVID-19 Dashboard** | An interactive data analysis project for exploring and visualizing COVID-19 datasets |
+| ⚡ **Smart Energy Monitor** | An IoT + Data Science project for monitoring and optimizing electricity consumption |
 
-### 🤖 AI Email Reply Automation
-An AI-powered system that generates context-aware email replies with review and approval workflows.  
-*Tech:* AI Automation, Relay.app, Gmail Integration
+<br/>
 
-### 📊 COVID-19 EDA Dashboard
-An interactive data analysis project for exploring and visualizing COVID-19 datasets.  
-*Tech:* Python, Pandas, Plotly, Dash
+## 📚 Currently Learning
 
-### ⚡ Smart Energy Monitoring System
-A university campus project focused on monitoring and optimizing electricity consumption using IoT, Data Science, and Machine Learning.  
-*Focus:* AI/ML, Data Analysis, Energy Optimization
+`Data Structures & Algorithms` · `Machine Learning` · `Data Analysis & AI` · `Python for AI/ML` · `Database Management Systems` · `Real-world AI Projects`
 
-## > github_stats
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true" />
-  <br /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" width="48%"/>
+
 </div>
 
-## > activity
-```text
-📚 Learning        ████████████████████   100%
-💻 Coding          ██████████████████░░   90%
-🤖 AI / ML         ███████████████████░   95%
-🧠 Problem Solving █████████████████░░░   85%
-🚀 Building        ███████████████████░   95%
-currently_learning = [
-    "Data Structures & Algorithms",
-    "Machine Learning",
-    "Data Analysis & EDA",
-    "Python for AI/ML",
-    "Database Management Systems",
-    "Building Real-World AI Projects"
-]
+<br/>
 
-for skill in currently_learning:
-    print(f"Learning: {skill} 🚀")
+<div align="center">
 
-```bash
-$ cat .profile
+**Learning · Building · Improving every day** ✨
 
-NAME      = Santanu Mondal
-ROLE      = B.Tech CSE (AIML) Student
-FOCUS     = Artificial Intelligence | Machine Learning | Data Science
-STACK     = Python | SQL | Java | C | C++
-GOAL      = Machine Learning Engineer
-STATUS    = Learning, Building & Improving Every Day 🚀
+</div>
