@@ -1,21 +1,21 @@
-\<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&fontColor=5EEAD4&text=Santanu%20Mondal&fontSize=38&desc=Aspiring%20AI%2FML%20Engineer&descColor=93C5FD&animation=fadeIn&height=180" />
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F1512&fontColor=FFAB91&text=Santanu%20Mondal&fontSize=38&fontAlignY=32&desc=Aspiring%20AI%2FML%20Engineer&descColor=FFD8B8&descSize=18&descAlignY=55&animation=fadeIn&height=200" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5EEAD4&center=true&vCenter=true&width=820&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Agentic+AI+%7C+Data+Science;Building+real-world+AI+%2B+automation+projects;Open+to+Internships+%2B+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFAB91&center=true&vCenter=true&width=820&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Agentic+AI+%7C+Data+Science;Building+real-world+AI+%2B+automation+projects;Open+to+Internships+%2B+Collaborations" />
 
 <br/>
 
-![Adamas University](https://img.shields.io/badge/Adamas%20University-0F172A?style=flat-square&labelColor=0F172A&color=1E293B)
-![Kolkata](https://img.shields.io/badge/Kolkata%2C%20West%20Bengal%2C%20India-0F172A?style=flat-square&labelColor=0F172A&color=1E293B)
+![Adamas University](https://img.shields.io/badge/Adamas%20University-1F1512?style=flat-square&labelColor=1F1512&color=1E293B)
+![Kolkata](https://img.shields.io/badge/Kolkata%2C%20West%20Bengal%2C%20India-1F1512?style=flat-square&labelColor=1F1512&color=1E293B)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=0F172A)](https://www.linkedin.com/in/santanu-mondal-823401353)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=5EEAD4&labelColor=0F172A)](mailto:santanu7299@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=5EEAD4&labelColor=0F172A)](https://github.com/sananu25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F1512?style=for-the-badge&logo=linkedin&logoColor=FFAB91&labelColor=1F1512)](https://www.linkedin.com/in/santanu-mondal-823401353)
+[![Email](https://img.shields.io/badge/Email-1F1512?style=for-the-badge&logo=gmail&logoColor=FFAB91&labelColor=1F1512)](mailto:santanu7299@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F1512?style=for-the-badge&logo=github&logoColor=FFAB91&labelColor=1F1512)](https://github.com/sananu25)
 
 </div>
 
@@ -39,19 +39,19 @@ open_to:  Internships · Collaborations · Learning Opportunities
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=5EEAD4&labelColor=0F172A)
-![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=5EEAD4&labelColor=0F172A)
-![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=flat-square&logo=cplusplus&logoColor=5EEAD4&labelColor=0F172A)
-![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=5EEAD4&labelColor=0F172A)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=5EEAD4&labelColor=0F172A)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=5EEAD4&labelColor=0F172A)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=5EEAD4&labelColor=0F172A)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=5EEAD4&labelColor=0F172A)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=5EEAD4&labelColor=0F172A)
-![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=flat-square&logo=netlify&logoColor=5EEAD4&labelColor=0F172A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=5EEAD4&labelColor=0F172A)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=5EEAD4&labelColor=0F172A)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=5EEAD4&labelColor=0F172A)
+![Python](https://img.shields.io/badge/Python-1F1512?style=flat-square&logo=python&logoColor=FFAB91&labelColor=1F1512)
+![C](https://img.shields.io/badge/C-1F1512?style=flat-square&logo=c&logoColor=FFAB91&labelColor=1F1512)
+![C++](https://img.shields.io/badge/C%2B%2B-1F1512?style=flat-square&logo=cplusplus&logoColor=FFAB91&labelColor=1F1512)
+![Java](https://img.shields.io/badge/Java-1F1512?style=flat-square&logo=openjdk&logoColor=FFAB91&labelColor=1F1512)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F1512?style=flat-square&logo=javascript&logoColor=FFAB91&labelColor=1F1512)
+![HTML5](https://img.shields.io/badge/HTML5-1F1512?style=flat-square&logo=html5&logoColor=FFAB91&labelColor=1F1512)
+![CSS3](https://img.shields.io/badge/CSS3-1F1512?style=flat-square&logo=css3&logoColor=FFAB91&labelColor=1F1512)
+![Git](https://img.shields.io/badge/Git-1F1512?style=flat-square&logo=git&logoColor=FFAB91&labelColor=1F1512)
+![GitHub](https://img.shields.io/badge/GitHub-1F1512?style=flat-square&logo=github&logoColor=FFAB91&labelColor=1F1512)
+![Netlify](https://img.shields.io/badge/Netlify-1F1512?style=flat-square&logo=netlify&logoColor=FFAB91&labelColor=1F1512)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F1512?style=flat-square&logo=mongodb&logoColor=FFAB91&labelColor=1F1512)
+![Postman](https://img.shields.io/badge/Postman-1F1512?style=flat-square&logo=postman&logoColor=FFAB91&labelColor=1F1512)
+![VS Code](https://img.shields.io/badge/VS%20Code-1F1512?style=flat-square&logo=visualstudiocode&logoColor=FFAB91&labelColor=1F1512)
 
 </div>
 
@@ -156,7 +156,7 @@ An interactive data analysis project exploring and visualizing COVID-19 datasets
 
 ## 🎓 Education
 
-![Adamas University](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-0F172A?style=for-the-badge&labelColor=0F172A&color=5EEAD4)
+![Adamas University](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-1F1512?style=for-the-badge&labelColor=1F1512&color=FFAB91)
 
 **Adamas University** — Bachelor of Technology, Computer Science & Engineering (AI & ML) · `Jul 2024 – Jul 2028`
 
@@ -166,14 +166,14 @@ An interactive data analysis project exploring and visualizing COVID-19 datasets
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sananu25&show_icons=true&hide_border=true&title_color=5EEAD4&icon_color=93C5FD&text_color=E2E8F0&bg_color=0F172A" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sananu25&hide_border=true&background=0F172A&stroke=5EEAD4&ring=93C5FD&fire=5EEAD4&currStreakLabel=5EEAD4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sananu25&show_icons=true&hide_border=true&title_color=FFAB91&icon_color=FFD8B8&text_color=F5E6DC&bg_color=1F1512" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sananu25&hide_border=true&background=1F1512&stroke=FFAB91&ring=FFD8B8&fire=FFAB91&currStreakLabel=FFAB91" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sananu25&bg_color=0F172A&color=5EEAD4&line=93C5FD&point=E2E8F0&area=true&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sananu25&bg_color=1F1512&color=FFAB91&line=FFD8B8&point=F5E6DC&area=true&hide_border=true" width="97%"/>
 
 </div>
 
@@ -209,6 +209,6 @@ open_to:
 
 **Learning · Building · Improving every day** ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&fontColor=5EEAD4&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F1512&height=100&section=footer" />
 
 </div>
