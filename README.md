@@ -204,11 +204,9 @@ open_to:
 ```
 
 <br/>
-
 <div align="center">
 
 **Learning · Building · Improving every day** ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F1512&height=100&section=footer" />
-
 </div>
