@@ -2,6 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F1512&fontColor=FFAB91&text=Santanu%20Mondal&fontSize=38&fontAlignY=32&desc=Aspiring%20AI%2FML%20Engineer&descColor=FFD8B8&descSize=18&descAlignY=55&animation=fadeIn&height=200" />
 </div>
 
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFAB91&center=true&vCenter=true&width=820&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Agentic+AI+%7C+Data+Science;Building+real-world+AI+%2B+automation+projects;Open+to+Internships+%2B+Collaborations" />
