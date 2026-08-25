@@ -71,6 +71,8 @@ open_to:  Internships · Collaborations · Learning Opportunities
 
 ## 🚀 Featured Projects
 
+
+
 <details open>
 <summary><b>AI Agent for Email Reply Automation</b></summary>
 <br/>
