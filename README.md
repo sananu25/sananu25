@@ -90,6 +90,7 @@ An AI-powered email automation system built on Relay that classifies incoming em
 </details>
 
 <details>
+  
 <summary><b>Birthday Wish Maker — Create & Share Wishes Online</b></summary>
 <br/>
 
