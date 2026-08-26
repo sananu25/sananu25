@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-I'm a B.Tech CSE (AI & ML) student at Adamas University, passionate about how AI can solve real-world problems — from intelligent automation to data-driven systems. I've spent the past year building hands-on projects, exploring cloud AI security, and picking up certifications across Generative AI, ML, and cybersecurity.
+I'm a B.Tech CSE (AI & ML) student at Adamas University, passionate about how AI can solve real-world problems — from intelligent automation to data-driven systems. I've spent the past year building hands-on projects, exploring cloud AI security, and picking up certifications across Generative AI, ML and cybersecurity.
 
 ```yaml
 role:     B.Tech CSE (AI & ML) Student
