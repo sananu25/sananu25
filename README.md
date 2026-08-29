@@ -192,7 +192,7 @@ An interactive data analysis project exploring and visualizing COVID-19 datasets
 <br/>
 
 ## 🌱 Current Focus
-kjdhjdhsjhj
+
 ```yaml
 learning:
   - Data Structures & Algorithms
